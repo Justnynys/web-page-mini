@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+	background-color: #f9f2e3;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h4 {
+	padding: 400px,0px,0px,0px;
+	font-size: 25px;
+	color: #d16640;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+h3 {
+	padding: 400px,0px,0px,0px;
+	text-align: center;
+	font-size: 22px;
+	font-family: sans-serif;
+}
+
+.info {
+	width: 800px;
+
